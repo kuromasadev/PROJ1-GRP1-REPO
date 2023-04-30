@@ -71,7 +71,7 @@ def filter_by_city(input_file):
 
 Per the kaggle download: 
 
-![](.\\images\yelp_zipformat.PNG)
+![](/images/yelp_zipformat.PNG)
 
 ```python
 input_files = ['./archive/yelp_academic_dataset_business.json',

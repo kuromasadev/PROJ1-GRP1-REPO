@@ -15,12 +15,13 @@
 
 2 - Gather data on food choices. Look for data on what types of food are popular within game season. We can use online food ordering platforms, food blogs, restaurant review sites, and social media to gather this information.
 
-  https://www.kaggle.com/datasets/yelp-dataset/yelp-dataset
-  https://www.kaggle.com/datasets/jfreyberg/spotify-chart-data
+> Food documentation [here](https://github.com/kuromasadev/PROJ1-GRP1-REPO/blob/main/Resources/YELP/Docs_YelpDataset.md)] 
 
 3 - Collect data on music choices. Look for data on what types of music are popular in each team's fans. You can use music streaming platforms, music blogs, and social media to gather this information.
 
-  https://kworb.net/ww/archive/
+ https://www.kaggle.com/datasets/jfreyberg/spotify-chart-data 
+
+ https://kworb.net/ww/archive/
 
 4 - Collect data on sports attendance. Look for data on those two teams people support, and how often they attend games. You can use sports news sites, social media, and ticketing sites to gather this information.
 
