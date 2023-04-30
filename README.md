@@ -3,7 +3,7 @@
 
 ### One Pager Introduction
 
-![](.\images\Proj1_Onepager.png)
+![](/images/Proj1_Onepager.png)
 
 ## Week 1 Documentation
 
