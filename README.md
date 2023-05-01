@@ -21,7 +21,7 @@
 
  https://www.kaggle.com/datasets/jfreyberg/spotify-chart-data 
 
-> World Charts documentation can be found [Kworb Docs}(https://github.com/kuromasadev/PROJ1-GRP1-REPO/blob/main/Resources/WORLDCHARTS/Docs_kworbDataset.md)
+> World Charts documentation can be found [Kworb Docs](https://github.com/kuromasadev/PROJ1-GRP1-REPO/blob/main/Resources/WORLDCHARTS/Docs_kworbDataset.md)
 
 4 - Collect data on sports attendance. Look for data on those two teams people support, and how often they attend games. You can use sports news sites, social media, and ticketing sites to gather this information.
 
