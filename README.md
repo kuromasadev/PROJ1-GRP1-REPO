@@ -1,9 +1,9 @@
 # PROJ1-GRP1-REPO
  Group 1 Project: Mapping NFL Culture
 
-![](/images/Proj1_header.png)
+![](/images/proj1_header.png)
 
-[One Pager-Introduction](/images/Proj1_header.png)
+[One Pager-Introduction](./images/Proj1_Onepager.png)
 
 # Week 1 Documentation
 
