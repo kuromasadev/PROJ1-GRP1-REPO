@@ -57,7 +57,7 @@
 
 ##### World Charts 
 
-
+![](/images/kworb_unique songs all.png)
 
 ##### Digital Streams (Spotify)
 
@@ -89,11 +89,13 @@ Question: Across the NFL seasons (2015-2021), what is the graphical categorizati
 
 #### NFL attendance
 
+reference
 
+![](/images/Nflpopularity.png)
 
 #### Food
 
-
+![](/images/yelp_is open.png)
 
 
 
