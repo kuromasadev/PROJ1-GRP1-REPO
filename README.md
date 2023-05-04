@@ -5,6 +5,12 @@
 
 [One Pager-Introduction](./images/Proj1_Onepager.png)
 
+# Final Presentation 
+
+[Slide Deck](/Project 1 Group 1 Slide Deck.pdf)
+
+
+
 # Week 1 Documentation
 
 ### Proposed approach
@@ -86,6 +92,8 @@ Question: Across the NFL seasons (2015-2021), what is the graphical categorizati
 
 
 #### Food
+
+
 
 
 
