@@ -87,9 +87,11 @@ Question: Across the NFL seasons (2015-2021), what is the graphical categorizati
 
 
 
-#### NFL attendance
+#### NFL Schedule 
 
-reference
+![](/images/NFL_schedules.png)
+
+reference for attendance 
 
 ![](/images/Nflpopularity.png)
 
@@ -97,7 +99,7 @@ reference
 
 ![](/images/yelp_is open.png)
 
-
+![](/images/yelp_stars.png)
 
 
 
