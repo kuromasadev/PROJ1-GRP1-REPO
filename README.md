@@ -11,8 +11,6 @@
 
 [Slide Deck](/Project 1 Group 1 Slide Deck.pdf)
 
-
-
 # Week 1 Documentation
 
 ### Proposed approach
@@ -35,6 +33,10 @@
 
 4 - Collect data on sports attendance. Look for data on those two teams people support, and how often they attend games. You can use sports news sites, social media, and ticketing sites to gather this information.
 
+![https://thesoccercrusader.com/tag/attendance/](/images/Nflpopularity.png)
+
+> Chart from (c) the Soccer Crusader
+
   https://www.pro-football-reference.com/years/2014/attendance.htm
 
 5 - Analyze the data. Look for patterns and correlations between food choices, music choices, and game season attendance in each city. For example, do people like a certain type of food also tend to attend certain game season or listen to certain types of music?
@@ -51,7 +53,7 @@
 - Yelp data was only significantly available for Philadelphia, but not for Pittsburg. 
 ```
 
-
+### Presentation 
 
 ![](/images/slide01.png)
 
@@ -61,7 +63,13 @@
 
 ![](/images/slide02.png)
 
+
+
+
+
 ![](/images/slide03.png)
+
+
 
 
 
@@ -71,25 +79,27 @@
 
 ##### World Charts 
 
+*Question:* What is the ratio of unique songs in a year compared to NFL seasons?
+
 ![](/images/kworb_unique songs all.png)
 
 ##### Digital Streams (Spotify)
 
 At NFL games, jingles, theme songs and social media are likely to use the top charting songs around the world to promote their team brand. 
 
-Question: Across the NFL seasons (2015-2021), what is the graphical categorization of song durations? 
+*Question*: Across the NFL seasons (2015-2021), what is the graphical categorization of song durations? 
 
 ![](/images/Fig1_MbD_v2.png)
+
+
+
+![](./images/Fig2_MbD_v2.png)
 
 **Findings**:
 
 1. Between the seasons, there is a consistent peak of longer songs, most likely due to the holidays. 
 2. There has been a decline in long songs over the last five years, most songs are "radio ready". (between 2 and 3 minutes)
 3. During the typical NFL season, there is less music streamed between weeks 8, 9 and 10. These are the first weeks of October and beginning of November. 
-
-
-
-![](./images/Fig2_MbD_v2.png)
 
 ***Regarding the 3-minute "limit"*** 
 
@@ -103,19 +113,29 @@ Question: Across the NFL seasons (2015-2021), what is the graphical categorizati
 
 #### NFL Schedule 
 
+*Question*: Is there a difference between game attendance if the team wins or looses?
+
 ![](/images/NFL_schedules.png)
 
-reference for attendance 
 
-![](/images/Nflpopularity.png)
 
 #### Food
 
 **Based on 10 mile radius from Lincoln Financial Field**
 
+> Locations that are open during game scheduled hours:
+
 ![](/images/yelp_is open.png)
 
+> Total Quantity of restaurant ratings in the city of Philadelphia
+
 ![](/images/yelp_stars.png)
+
+# Final Conclusions 
+
+> Based on the findings of music, food and schedule attendance, of the sample city of Philadelphia, the typical NFL fan is most likely to listen to pop music (2-3 minute songs) and rate restaurants 10 miles near the stadium higher.
+
+
 
 
 
