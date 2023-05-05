@@ -3,9 +3,11 @@
 
 ![](/images/proj1_header.png)
 
-[One Pager-Introduction](./images/Proj1_Onepager.png)
+[One Pager-Introduction, v01](./images/Proj1_Onepager.png)
 
-# Final Presentation 
+![](/images/questions and data.png)
+
+###### Final Presentation 
 
 [Slide Deck](/Project 1 Group 1 Slide Deck.pdf)
 
@@ -51,6 +53,18 @@
 
 
 
+![](/images/slide01.png)
+
+
+
+
+
+![](/images/slide02.png)
+
+![](/images/slide03.png)
+
+
+
 ## Findings 
 
 #### Music 
@@ -65,7 +79,7 @@ At NFL games, jingles, theme songs and social media are likely to use the top ch
 
 Question: Across the NFL seasons (2015-2021), what is the graphical categorization of song durations? 
 
-![](./images/Fig1_MbD_v2.png)
+![](/images/Fig1_MbD_v2.png)
 
 **Findings**:
 
@@ -96,6 +110,8 @@ reference for attendance
 ![](/images/Nflpopularity.png)
 
 #### Food
+
+**Based on 10 mile radius from Lincoln Financial Field**
 
 ![](/images/yelp_is open.png)
 
